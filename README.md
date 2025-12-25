@@ -131,12 +131,12 @@ October 2025 – Present | Remote
 
 > These projects were completed as part of structured training and internship stages to build foundational understanding of cloud and DevOps concepts.
 
-### [Automated Deployment Script]()
+### Automated Deployment Script
 
 * Created a Bash-based deployment script to provision environments and deploy containers.
 * Focused on repeatability and reducing manual setup steps.
   
-**Stack:** Bash, Docker, NGINX
+**Stack:** Bash, Docker, NGINX  
 **Concepts:** Automation, scripting fundamentals
 
 ---
@@ -146,27 +146,27 @@ October 2025 – Present | Remote
 * Implemented dual-environment routing using NGINX and Docker Compose.
 * Learned zero-downtime deployment concepts and rollback strategies.
 
-**Stack:** Docker Compose, NGINX
+**Stack:** Docker Compose, NGINX  
 **Concepts:** High availability, deployment strategies
 
 ---
 
-### Observability & Log Monitoring
+### [Observability & Log Monitoring](https://github.com/Jerriemiah/hng13-stage0-devops)
 
 * Built a basic log watcher that sends alerts to Slack on defined conditions.
 * Improved understanding of monitoring and incident visibility.
 
-**Stack:** Python, NGINX
+**Stack:** Python, NGINX  
 **Concepts:** Logging, alerting fundamentals
 
 ---
 
-### Linux Virtual Network Simulation
+### [Linux Virtual Network Simulation](https://github.com/Jerriemiah/vpcctl)
 
 * Simulated VPC-like networking using Linux namespaces and routing.
 * Gained hands-on exposure to low-level networking concepts.
 
-**Stack:** Linux, Bash, Python
+**Stack:** Linux, Bash, Python  
 **Concepts:** Networking fundamentals, isolation, routing
 
 ---
@@ -184,9 +184,6 @@ October 2025 – Present | Remote
 ## Contact Me
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Inyiamajeremiah@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeremiah-inyiama/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jerriemiah)
 
-* **GitHub:** [https://github.com/Jerriemiah](https://github.com/Jerriemiah)
-* **LinkedIn:** [https://linkedin.com/in/jeremiah-inyiama](https://linkedin.com/in/jeremiah-inyiama)
-* **Email:** [inyiamajeremiah@gmail.com](mailto:inyiamajeremiah@gmail.com)
 
 ---
 
