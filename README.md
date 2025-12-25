@@ -130,11 +130,11 @@ October 2025 – Present | Remote
 
 * Created a Bash-based deployment script to provision environments and deploy containers.
 * Focused on repeatability and reducing manual setup steps.
-````
+  
 **Stack:** Bash, Docker, NGINX
 
 **Concepts:** Automation, scripting fundamentals
-````
+
 ---
 
 ### Blue / Green Deployment Simulation
@@ -152,22 +152,22 @@ October 2025 – Present | Remote
 
 * Built a basic log watcher that sends alerts to Slack on defined conditions.
 * Improved understanding of monitoring and incident visibility.
-````
+
 **Stack:** Python, NGINX
 
 **Concepts:** Logging, alerting fundamentals
-````
+
 ---
 
 ### Linux Virtual Network Simulation
 
 * Simulated VPC-like networking using Linux namespaces and routing.
 * Gained hands-on exposure to low-level networking concepts.
-````
+
 **Stack:** Linux, Bash, Python
 
 **Concepts:** Networking fundamentals, isolation, routing
-````
+
 ---
 ---
 
