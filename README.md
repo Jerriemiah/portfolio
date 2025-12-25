@@ -5,7 +5,11 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 ---
 
 ## Core Skills
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,aws,bash,docker,nginx,terraform,prometheus,grafana,vscode,vim" />
+  </a>
+</p>
 ### IT Support & Systems
 
 * L1 / L2 Technical Support (hardware, software, OS issues)
@@ -126,7 +130,7 @@ October 2025 – Present | Remote
 
 > These projects were completed as part of structured training and internship stages to build foundational understanding of cloud and DevOps concepts.
 
-### Automated Deployment Script
+### [Automated Deployment Script]()
 
 * Created a Bash-based deployment script to provision environments and deploy containers.
 * Focused on repeatability and reducing manual setup steps.
