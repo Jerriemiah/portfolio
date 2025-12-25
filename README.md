@@ -181,7 +181,7 @@ October 2025 – Present | Remote
 ---
 
 ## Links
-
+[![Contact Me](https://skillicons.dev/icons?i=linkedin,gmail,github)](https://skillicons.dev
 * **GitHub:** [https://github.com/Jerriemiah](https://github.com/Jerriemiah)
 * **LinkedIn:** [https://linkedin.com/in/jeremiah-inyiama](https://linkedin.com/in/jeremiah-inyiama)
 * **Email:** [inyiamajeremiah@gmail.com](mailto:inyiamajeremiah@gmail.com)
