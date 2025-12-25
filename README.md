@@ -42,9 +42,9 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 ---
 ## Certifications
 
-* **AWS Solutions Architect – Associate** (2025)
-* **AWS Cloud Practitioner** (2025)
-* **Google IT Support Professional Certificate** (2022)
+* [**AWS Solutions Architect – Associate**](https://www.credly.com/badges/f38cf166-b571-447e-924f-ea544381333a/public_url) (2025)
+* [**AWS Cloud Practitioner**](https://www.credly.com/badges/22f4e75d-bdf8-45f6-aeef-0c6161bb4b48/public_url) (2025)
+* [**Google IT Support Professional Certificate**](https://coursera.org/share/9fdbdbd298a49e4ed20075fbb66b4c99) (2022)
 
 ---
 ---
@@ -130,10 +130,11 @@ October 2025 – Present | Remote
 
 * Created a Bash-based deployment script to provision environments and deploy containers.
 * Focused on repeatability and reducing manual setup steps.
-
+````
 **Stack:** Bash, Docker, NGINX
-**Concepts:** Automation, scripting fundamentals
 
+**Concepts:** Automation, scripting fundamentals
+````
 ---
 
 ### Blue / Green Deployment Simulation
@@ -142,6 +143,7 @@ October 2025 – Present | Remote
 * Learned zero-downtime deployment concepts and rollback strategies.
 
 **Stack:** Docker Compose, NGINX
+
 **Concepts:** High availability, deployment strategies
 
 ---
@@ -150,20 +152,22 @@ October 2025 – Present | Remote
 
 * Built a basic log watcher that sends alerts to Slack on defined conditions.
 * Improved understanding of monitoring and incident visibility.
-
+````
 **Stack:** Python, NGINX
-**Concepts:** Logging, alerting fundamentals
 
+**Concepts:** Logging, alerting fundamentals
+````
 ---
 
 ### Linux Virtual Network Simulation
 
 * Simulated VPC-like networking using Linux namespaces and routing.
 * Gained hands-on exposure to low-level networking concepts.
-
+````
 **Stack:** Linux, Bash, Python
-**Concepts:** Networking fundamentals, isolation, routing
 
+**Concepts:** Networking fundamentals, isolation, routing
+````
 ---
 ---
 
