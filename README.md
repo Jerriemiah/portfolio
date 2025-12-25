@@ -10,6 +10,7 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,aws,bash,docker,nginx,terraform,prometheus,grafana,vscode,vim" />
   </a>
 </p>
+
 ### IT Support & Systems
 
 * L1 / L2 Technical Support (hardware, software, OS issues)
