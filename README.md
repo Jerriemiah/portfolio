@@ -132,7 +132,6 @@ October 2025 – Present | Remote
 * Focused on repeatability and reducing manual setup steps.
   
 **Stack:** Bash, Docker, NGINX
-
 **Concepts:** Automation, scripting fundamentals
 
 ---
@@ -143,7 +142,6 @@ October 2025 – Present | Remote
 * Learned zero-downtime deployment concepts and rollback strategies.
 
 **Stack:** Docker Compose, NGINX
-
 **Concepts:** High availability, deployment strategies
 
 ---
@@ -154,7 +152,6 @@ October 2025 – Present | Remote
 * Improved understanding of monitoring and incident visibility.
 
 **Stack:** Python, NGINX
-
 **Concepts:** Logging, alerting fundamentals
 
 ---
@@ -165,7 +162,6 @@ October 2025 – Present | Remote
 * Gained hands-on exposure to low-level networking concepts.
 
 **Stack:** Linux, Bash, Python
-
 **Concepts:** Networking fundamentals, isolation, routing
 
 ---
@@ -181,7 +177,8 @@ October 2025 – Present | Remote
 ---
 
 ## Links
-[![Contact Me](https://skillicons.dev/icons?i=linkedin,gmail,github)](https://skillicons.dev
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Inyiamajeremiah@gmail.com) [![Linkedin](https://skillicons.dev/icons?i=linkeding)](https://www.linkedin.com/in/jeremiah-inyiama/) [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jerriemiah)
+
 * **GitHub:** [https://github.com/Jerriemiah](https://github.com/Jerriemiah)
 * **LinkedIn:** [https://linkedin.com/in/jeremiah-inyiama](https://linkedin.com/in/jeremiah-inyiama)
 * **Email:** [inyiamajeremiah@gmail.com](mailto:inyiamajeremiah@gmail.com)
