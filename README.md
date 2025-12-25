@@ -1,6 +1,4 @@
-# Jeremiah Inyiama
-
-### IT Support Specialist | Systems & Cloud Fundamentals
+# IT Support Specialist | Systems & Cloud Fundamentals
 
 IT Support and Systems Technician with hands-on experience supporting enterprise users, maintaining networks, and improving system reliability. Experienced in troubleshooting hardware, software, and connectivity issues, with growing exposure to cloud and DevOps tools through structured internships and self-directed projects. Passionate about documentation, process improvement, and building reliable technical environments.
 
@@ -54,7 +52,7 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ### IT Support & Network Technician — VAS Technologies Ltd
 
-*January 2023 – January 2025 | Abuja*
+January 2023 – January 2025 | Abuja
 
 * Resolved 250+ technical support tickets involving connectivity, OS issues, devices, and user accounts.
 * Installed and maintained routers, printers, desktops, and basic LAN infrastructure.
@@ -67,7 +65,7 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ### Network & Systems Support Intern — VAS Technologies Ltd
 
-*July 2022 – December 2022 | Abuja*
+July 2022 – December 2022 | Abuja
 
 * Assisted with workstation setup, imaging, cable management, and software installation.
 * Supported router, printer, and basic network configurations under supervision.
@@ -78,7 +76,7 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ### DevOps Engineer Intern — HNG (Learning & Hands-On Exposure)
 
-*October 2025 – Present | Remote*
+October 2025 – Present | Remote
 
 > This internship provided structured, hands-on exposure to DevOps tools and workflows in a guided learning environment.
 
