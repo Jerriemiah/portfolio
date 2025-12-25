@@ -39,13 +39,14 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 * Slack
 
 ---
-
+---
 ## Certifications
 
 * **AWS Solutions Architect – Associate** (2025)
 * **AWS Cloud Practitioner** (2025)
 * **Google IT Support Professional Certificate** (2022)
 
+---
 ---
 
 ## Professional Experience
@@ -87,6 +88,7 @@ October 2025 – Present | Remote
 * Contributed to runbooks and reproducible deployment documentation.
 
 ---
+---
 
 ## Projects
 
@@ -117,6 +119,7 @@ October 2025 – Present | Remote
 
 **Skills:** Helpdesk operations, customer support, process improvement
 
+---
 ---
 
 ## Cloud & DevOps Learning Projects
@@ -161,6 +164,7 @@ October 2025 – Present | Remote
 **Stack:** Linux, Bash, Python
 **Concepts:** Networking fundamentals, isolation, routing
 
+---
 ---
 
 ## How I Work
