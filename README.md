@@ -4,7 +4,7 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ---
 
-## Core Skills
+## Core Skills |  Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,git,github,aws,bash,docker,nginx,terraform,prometheus,grafana,vscode,vim" />
