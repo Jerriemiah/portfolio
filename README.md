@@ -51,6 +51,7 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 - Slack
 
 ---
+---
 
 ## Projects  
 
@@ -106,6 +107,7 @@ Reduced average response time by approximately **40%**, improved communication w
 ![Helpdesk workflow diagram](/assets/img/helpdesk-workflow.png)  
 
 
+---
 ---
 
 ## Cloud & DevOps Learning Projects {#cloud-devops-learning-projects}
@@ -165,6 +167,7 @@ Reduced manual deployment effort, improved consistency across environments, and 
 
 ![Deployment script diagram](/assets/img/deploy-script.png)  
 
+---
 ---
 
 ## Professional Experience {#professional-experience}
