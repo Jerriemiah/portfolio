@@ -110,73 +110,61 @@ Reduced average response time by approximately **40%**, improved communication w
 
 ## Cloud & DevOps Learning Projects {#cloud-devops-learning-projects}
 
-> These projects were completed as part of structured training and internship stages to build foundational understanding of cloud and DevOps concepts.
-
-### [Automated Deployment Script](#)
-**Problem**  
-Manual environment setup was time-consuming and error-prone.
-
-**Approach**  
-Created a Bash-based deployment script to provision environments and deploy containers with repeatable steps.
-
-**Outcome**  
-Reduced manual setup effort and improved consistency across deployments.
-
-**Stack:** Bash, Docker, NGINX  
-**Concepts:** Automation, scripting fundamentals  
-
-> _Image placeholder:_ `/assets/img/deploy-script.png`
+> These projects were completed as part of structured training and internship stages to build foundational understanding of cloud infrastructure, deployment reliability, and DevOps workflows.
 
 ---
 
-### [Blue / Green Deployment Simulation](#)
+### [Linux Virtual Private Cloud (VPC) Simulation — vpcctl](https://github.com/Jerriemiah/vpcctl/blob/main/README.md)
+
 **Problem**  
-Service updates caused downtime during restarts.
+Cloud networking concepts such as VPCs, subnets, routing, NAT, and isolation are often abstracted by providers, making it difficult to understand how they work internally.
 
 **Approach**  
-Implemented dual-environment routing using Docker Compose and NGINX.
+Built a custom CLI tool (`vpcctl`) to recreate VPC behavior from first principles using Linux network namespaces, bridges, veth pairs, routing tables, and iptables. Implemented multiple VPCs, subnet isolation, optional peering, firewall rules, and lifecycle cleanup.
 
 **Outcome**  
-Enabled zero-downtime deployment simulations and safe rollback testing.
+Developed a deep, practical understanding of cloud networking internals, Linux isolation, routing behavior, and infrastructure lifecycle management.
 
-**Stack:** Docker Compose, NGINX  
-**Concepts:** High availability, deployment strategies  
+**Stack:** Linux, Bash, Python, iproute2, iptables  
+**Concepts:** Networking fundamentals, isolation, routing, firewalling, VPC design  
+
+> _Image placeholder:_ `/assets/img/linux-vpc.png`
+
+---
+
+### [Blue/Green Deployment with Observability & Auto-Failover](https://github.com/Jerriemiah/hng-stage2-bluegreen/blob/main/README.md)
+
+**Problem**  
+Service updates and failures can cause downtime and poor user experience without proper deployment strategies and monitoring.
+
+**Approach**  
+Implemented a Blue/Green deployment architecture using Docker Compose and NGINX upstreams, ensuring zero-downtime failover. Extended the system with structured NGINX logging and a Python-based log watcher that detects failovers and error-rate spikes, sending alerts to Slack.
+
+**Outcome**  
+Achieved zero failed client requests during simulated outages, gained hands-on experience with high-availability patterns, and implemented operational visibility through automated alerts and runbooks.
+
+**Stack:** Docker Compose, NGINX, Python  
+**Concepts:** High availability, deployment strategies, failover, observability, alerting  
 
 > _Image placeholder:_ `/assets/img/blue-green.png`
 
 ---
 
-### [Observability & Log Monitoring](https://github.com/Jerriemiah/hng13-stage0-devops)
+### [Automated Deployment Bash Script](https://github.com/Jerriemiah/hng-stage1-devops-deploy/blob/main/README.md)
+
 **Problem**  
-Service failures were not immediately visible.
+Manual server setup and application deployment were repetitive, error-prone, and difficult to reproduce reliably.
 
 **Approach**  
-Built a basic log watcher that sends alerts to Slack based on defined conditions.
+Developed a single executable Bash script to automate remote environment preparation, Dockerized application deployment, NGINX reverse proxy configuration, validation, logging, and safe re-runs.
 
 **Outcome**  
-Improved incident visibility and understanding of monitoring workflows.
+Reduced manual deployment effort, improved consistency across environments, and reinforced core DevOps automation and scripting practices.
 
-**Stack:** Python, NGINX  
-**Concepts:** Logging, alerting fundamentals  
+**Stack:** Bash, Docker, NGINX  
+**Concepts:** Automation, scripting fundamentals, remote deployment  
 
-> _Image placeholder:_ `/assets/img/observability.png`
-
----
-
-### [Linux Virtual Network Simulation](https://github.com/Jerriemiah/vpcctl)
-**Problem**  
-Needed practical understanding of cloud-style networking concepts.
-
-**Approach**  
-Simulated VPC-like networking using Linux namespaces, routing, and iptables.
-
-**Outcome**  
-Gained hands-on exposure to low-level networking and isolation concepts.
-
-**Stack:** Linux, Bash, Python  
-**Concepts:** Networking fundamentals, routing, isolation  
-
-> _Image placeholder:_ `/assets/img/linux-vpc.png`
+> _Image placeholder:_ `/assets/img/deploy-script.png`
 
 ---
 
