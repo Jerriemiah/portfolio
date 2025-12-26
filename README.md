@@ -6,8 +6,8 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ## How to Read This Portfolio
 
-- **For IT / Tech Support roles:** Review [*IT Support & Systems Projects*](https://github.com/Jerriemiah/portfolio/blob/main/README.md#it-support--systems-projects) and [*Professional Experience*](https://github.com/Jerriemiah/portfolio/blob/main/README.md#professional-experience)  
-- **For Systems / Cloud exposure:** Review [*Cloud & DevOps Learning Projects*](https://github.com/Jerriemiah/portfolio/blob/main/README.md#cloud--devops-learning-projects)  
+- **For IT / Tech Support roles:** Review [*IT Support & Systems Projects*](#it-support-systems-projects) and [*Professional Experience*](#professional-experience)  
+- **For Systems / Cloud exposure:** Review [*Cloud & DevOps Learning Projects*](#cloud-devops-learning-projects)  
 - **For hands-on detail:** Click any project title to view a dedicated README with deeper explanations  
 
 ---
@@ -54,7 +54,7 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ## Projects
 
-## IT Support & Systems Projects
+## IT Support & Systems Projects {#it-support-systems-projects}
 
 ### [IT Infrastructure & System Configuration Improvement](#)
 **Problem**  
@@ -104,7 +104,7 @@ Reduced response times and improved customer satisfaction through clearer workfl
 
 ---
 
-## Cloud & DevOps Learning Projects
+## Cloud & DevOps Learning Projects {#cloud-devops-learning-projects}
 
 > These projects were completed as part of structured training and internship stages to build foundational understanding of cloud and DevOps concepts.
 
@@ -176,7 +176,7 @@ Gained hands-on exposure to low-level networking and isolation concepts.
 
 ---
 
-## Professional Experience
+## Professional Experience {#professional-experience}
 
 ### IT Support & Network Technician — VAS Technologies Ltd  
 _January 2023 – January 2025 | Abuja_
