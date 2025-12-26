@@ -52,55 +52,59 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ---
 
-## Projects
+## Projects  
 
 ## IT Support & Systems Projects {#it-support-systems-projects}
 
-### [IT Infrastructure & System Configuration Improvement](#)
+### [Enterprise Office Network Expansion & Inter-Building Connectivity](https://github.com/Jerriemiah/network-optimization/blob/main/README.md)
+
 **Problem**  
-Inconsistent workstation and peripheral setups led to recurring support issues and downtime.
+A newly constructed large office building required full network connectivity and seamless integration with an existing enterprise network, under a strict delivery timeline.
 
 **Approach**  
-Supported structured setup and configuration of desktops, printers, and network devices, with emphasis on repeatable installation steps and documentation.
+Supported the deployment of fiber connectivity between buildings, enterprise switching and routing, and large-scale wireless infrastructure. Coordinated structured cabling with building contractors and validated wired and wireless access across all areas.
 
 **Outcome**  
-Improved system reliability and reduced repeat configuration issues.
+Successfully connected the new building to the existing network, delivered full wireless and wired access, and completed the project **ahead of schedule (12 days vs. planned 20 days)** with minimal disruption to operations.
 
-**Skills:** System administration, troubleshooting, documentation  
+**Skills:** Enterprise networking, fiber connectivity, wireless infrastructure, infrastructure deployment, cross-team coordination  
 
-> _Image placeholder:_ `/assets/img/it-infrastructure-setup.png`
+> _Image placeholder:_ `/assets/img/inter-building-network.png`  
 
 ---
 
-### [Network Monitoring & Uptime Improvement](#)
+### [IT Infrastructure & System Configuration Overhaul](https://github.com/Jerriemiah/it-infrastructure-overhaul/blob/main/README.md)
+
 **Problem**  
-Recurring connectivity issues caused service interruptions and delayed support responses.
+Inconsistent workstation and peripheral setups led to recurring support issues, performance degradation, and downtime.
 
 **Approach**  
-Assisted in diagnosing network faults and applying consistent troubleshooting workflows.
+Supported structured setup and configuration of desktops, printers, and network devices, with emphasis on standardization, repeatable installation steps, and clear documentation.
 
 **Outcome**  
-Improved response time to incidents and contributed to better uptime awareness.
+Improved system reliability, reduced repeat configuration issues, and strengthened operational consistency through standardized processes.
 
-**Skills:** Network diagnostics, uptime monitoring, support processes  
+**Skills:** System administration, troubleshooting, documentation, IT operations  
 
-> _Image placeholder:_ `/assets/img/network-monitoring.png`
+> _Image placeholder:_ `/assets/img/it-infrastructure-setup.png`  
 
 ---
 
-### [Customer Support Workflow Improvement](#)
+### [Customer Support & Managed Network Service Improvement](https://github.com/Jerriemiah/managed-network-support-process-improvement/blob/main/README.md)
+
 **Problem**  
-Slow ticket handling and unclear categorization affected user experience.
+Manual incident logging and inconsistent escalation processes led to slow response times and limited visibility for managed network support operations.
 
 **Approach**  
-Helped implement and manage structured ticket workflows using Freshdesk.
+Implemented Freshdesk as a centralized ticketing system, introduced ticket categorization and prioritization, automated responses for common issues, and defined clear escalation workflows for critical incidents.
 
 **Outcome**  
-Reduced response times and improved customer satisfaction through clearer workflows.
+Reduced average response time by approximately **40%**, improved communication with supported sites during outages, and increased overall support efficiency.
 
-**Skills:** Helpdesk operations, customer support, process improvement  
+**Skills:** IT support operations, incident management, escalation workflows, customer communication, process improvement  
 
-> _Image placeholder:_ `/assets/img/helpdesk-workflow.png`
+> _Image placeholder:_ `/assets/img/helpdesk-workflow.png`  
+
 
 ---
 
