@@ -6,8 +6,8 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 
 ## How to Read This Portfolio
 
-- **For IT / Tech Support roles:** Review *IT Support & Systems Projects* and *Professional Experience*  
-- **For Systems / Cloud exposure:** Review *Cloud & DevOps Learning Projects*  
+- **For IT / Tech Support roles:** Review [*IT Support & Systems Projects*](https://github.com/Jerriemiah/portfolio/blob/main/README.md#it-support--systems-projects) and [*Professional Experience*](https://github.com/Jerriemiah/portfolio/blob/main/README.md#professional-experience)  
+- **For Systems / Cloud exposure:** Review [*Cloud & DevOps Learning Projects*](https://github.com/Jerriemiah/portfolio/blob/main/README.md#cloud--devops-learning-projects)  
 - **For hands-on detail:** Click any project title to view a dedicated README with deeper explanations  
 
 ---
@@ -235,6 +235,4 @@ _October 2025 – Present | Remote_
 ---
 
 ## Contact Me
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Inyiamajeremiah@gmail.com)  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeremiah-inyiama/)  
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jerriemiah)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Inyiamajeremiah@gmail.com)   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeremiah-inyiama/)   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jerriemiah)
