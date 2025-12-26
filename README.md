@@ -69,7 +69,7 @@ Successfully connected the new building to the existing network, delivered full 
 
 **Skills:** Enterprise networking, fiber connectivity, wireless infrastructure, infrastructure deployment, cross-team coordination  
 
-> _Image placeholder:_ `/assets/img/inter-building-network.png`  
+![Inter-building network diagram](/assets/img/inter-building-network.png)  
 
 ---
 
@@ -86,7 +86,7 @@ Improved system reliability, reduced repeat configuration issues, and strengthen
 
 **Skills:** System administration, troubleshooting, documentation, IT operations  
 
-/assets/img/it-infrastructure-setup.png  
+![IT infrastructure setup diagram](/assets/img/it-infrastructure-setup.png)  
 
 ---
 
@@ -103,7 +103,7 @@ Reduced average response time by approximately **40%**, improved communication w
 
 **Skills:** IT support operations, incident management, escalation workflows, customer communication, process improvement  
 
-/assets/img/helpdesk-workflow.png  
+![Helpdesk workflow diagram](/assets/img/helpdesk-workflow.png)  
 
 
 ---
@@ -128,7 +128,6 @@ Developed a deep, practical understanding of cloud networking internals, Linux i
 **Stack:** Linux, Bash, Python, iproute2, iptables  
 **Concepts:** Networking fundamentals, isolation, routing, firewalling, VPC design  
 
-> _Image placeholder:_ `/assets/img/linux-vpc.png`
 
 ---
 
@@ -146,7 +145,7 @@ Achieved zero failed client requests during simulated outages, gained hands-on e
 **Stack:** Docker Compose, NGINX, Python  
 **Concepts:** High availability, deployment strategies, failover, observability, alerting  
 
-> _Image placeholder:_ `/assets/img/blue-green.png`
+![Blue/green deployment diagram](/assets/img/blue-green.png)  
 
 ---
 
@@ -164,7 +163,7 @@ Reduced manual deployment effort, improved consistency across environments, and 
 **Stack:** Bash, Docker, NGINX  
 **Concepts:** Automation, scripting fundamentals, remote deployment  
 
-> _Image placeholder:_ `/assets/img/deploy-script.png`
+![Deployment script diagram](/assets/img/deploy-script.png)  
 
 ---
 
