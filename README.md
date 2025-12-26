@@ -86,7 +86,7 @@ Improved system reliability, reduced repeat configuration issues, and strengthen
 
 **Skills:** System administration, troubleshooting, documentation, IT operations  
 
-> _Image placeholder:_ `/assets/img/it-infrastructure-setup.png`  
+/assets/img/it-infrastructure-setup.png  
 
 ---
 
@@ -103,7 +103,7 @@ Reduced average response time by approximately **40%**, improved communication w
 
 **Skills:** IT support operations, incident management, escalation workflows, customer communication, process improvement  
 
-> _Image placeholder:_ `/assets/img/helpdesk-workflow.png`  
+/assets/img/helpdesk-workflow.png  
 
 
 ---
