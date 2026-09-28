@@ -58,7 +58,6 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 ### IT Support Specialist — SPAR Nigeria (Novare Mall, Abuja)  
 _December 2025 – Present | Abuja_
 
-# Provide IT support across multiple retail branches and warehouse environments, covering POS and Server systems, LAN infrastructure, and Microsoft Dynamics 365 (ERP).
 - Provide day-to-day IT support for POS systems, end-user devices and retail equipment (label printers, Mettler Toledo scales) across store and warehouse sites
 - Manage and support Microsoft Dynamics 365 (ERP) and store-critical business applications
 - Supported employee onboarding by configuring user accounts, email access, and permissions.
