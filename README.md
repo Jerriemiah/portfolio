@@ -241,4 +241,4 @@ Reduced manual deployment effort, improved consistency across environments, and 
 ---
 
 ## Contact Me
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Inyiamajeremiah@gmail.com)   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jeremiah-inyiama/)   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jerriemiah)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:Inyiamajeremiah@gmail.com)   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jerriemiah/)   [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Jerriemiah)
