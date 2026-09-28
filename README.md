@@ -53,6 +53,54 @@ IT Support and Systems Technician with hands-on experience supporting enterprise
 ---
 ---
 
+## Professional Experience {#professional-experience}
+
+### IT Support Specialist — SPAR Nigeria (Novare Mall, Abuja)  
+_December 2025 – Present | Abuja_
+
+# Provide IT support across multiple retail branches and warehouse environments, covering POS and Server systems, LAN infrastructure, and Microsoft Dynamics 365 (ERP).
+- Provide day-to-day IT support for POS systems, end-user devices and retail equipment (label printers, Mettler Toledo scales) across store and warehouse sites
+- Manage and support Microsoft Dynamics 365 (ERP) and store-critical business applications
+- Supported employee onboarding by configuring user accounts, email access, and permissions.
+- Maintain the LAN, including VLANs, IP addressing and Cisco switches
+- Coordinate with ISPs and vendors to keep every site online
+- Keep the IT asset inventory up to date
+
+---
+
+### IT Support & Network Technician — VAS Technologies Ltd  
+_January 2023 – January 2025 | Abuja_
+
+- Resolved 250+ technical support tickets involving connectivity, OS issues, devices, and user accounts.
+- Installed and maintained routers, printers, desktops, and basic LAN infrastructure.
+- Supported employee onboarding by configuring user accounts, email access, and permissions.
+- Escalated complex issues with detailed logs and documentation, improving resolution efficiency.
+- Assisted with IT infrastructure rollouts across three branch locations.
+- Maintained IT asset inventory and documented support procedures.
+
+---
+
+### Network & Systems Support Intern — VAS Technologies Ltd  
+_July 2022 – December 2022 | Abuja_
+
+- Assisted with workstation setup, imaging, cable management, and software installation.
+- Supported router, printer, and basic network configurations under supervision.
+- Logged recurring issues to identify common failure patterns.
+- Participated in upgrade and maintenance activities and documented device setups.
+
+---
+
+### DevOps Engineer Intern — HNG (Learning & Hands-On Exposure)  
+_October 2025 – Present | Remote_
+
+- Assisted in automating remote deployments using Bash and Docker.
+- Worked with NGINX configurations to support blue/green deployment concepts.
+- Implemented basic log monitoring and Slack alerting for service visibility.
+- Explored Linux networking concepts such as namespaces, routing, and iptables.
+- Contributed to runbooks and reproducible deployment documentation.
+
+---
+---
 ## Projects  
 
 ## IT Support & Systems Projects {#it-support-systems-projects}
@@ -168,41 +216,6 @@ Reduced manual deployment effort, improved consistency across environments, and 
 ![Deployment script diagram](/assets/img/deploy-script.png)  
 
 ---
----
-
-## Professional Experience {#professional-experience}
-
-### IT Support & Network Technician — VAS Technologies Ltd  
-_January 2023 – January 2025 | Abuja_
-
-- Resolved 250+ technical support tickets involving connectivity, OS issues, devices, and user accounts.
-- Installed and maintained routers, printers, desktops, and basic LAN infrastructure.
-- Supported employee onboarding by configuring user accounts, email access, and permissions.
-- Escalated complex issues with detailed logs and documentation, improving resolution efficiency.
-- Assisted with IT infrastructure rollouts across three branch locations.
-- Maintained IT asset inventory and documented support procedures.
-
----
-
-### Network & Systems Support Intern — VAS Technologies Ltd  
-_July 2022 – December 2022 | Abuja_
-
-- Assisted with workstation setup, imaging, cable management, and software installation.
-- Supported router, printer, and basic network configurations under supervision.
-- Logged recurring issues to identify common failure patterns.
-- Participated in upgrade and maintenance activities and documented device setups.
-
----
-
-### DevOps Engineer Intern — HNG (Learning & Hands-On Exposure)  
-_October 2025 – Present | Remote_
-
-- Assisted in automating remote deployments using Bash and Docker.
-- Worked with NGINX configurations to support blue/green deployment concepts.
-- Implemented basic log monitoring and Slack alerting for service visibility.
-- Explored Linux networking concepts such as namespaces, routing, and iptables.
-- Contributed to runbooks and reproducible deployment documentation.
-
 ---
 
 ## Certifications
